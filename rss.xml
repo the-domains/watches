@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Watches]]></title>
         <description><![CDATA[Watches]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/watches/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 20:15:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 20:16:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/watches/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78eb957e-5e86-4500-8ec5-b352349d82e8.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/watches/9049dcbf-b7dc-4cfd-b405-7cc26027c4b6/index.html</link>
+            <guid isPermaLink="false">9049dcbf-b7dc-4cfd-b405-7cc26027c4b6</guid>
+            <pubDate>Tue, 09 Feb 2016 20:13:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watches are Great!]]></title>
-            <description><![CDATA[<article><h1>Watches are Great!</h1><p>Watches are great!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b277bf1c-99c4-484c-9dc4-6d5cfbfcf8c6.png"></article>]]></description>
-            <link>undefinedwatches-are-great/index.html</link>
+            <description><![CDATA[<article><h1>Watches are Great!</h1><p>Watches are great!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0026dc7a46642a709f9f000e8ed62db4beda8c35.png"></article>]]></description>
+            <link>https://thegrid.ai/watches/watches-are-great/index.html</link>
             <guid isPermaLink="false">6df31b4f-1a12-4a38-9a18-fef9fa1ede01</guid>
             <pubDate>Tue, 09 Feb 2016 20:12:56 GMT</pubDate>
         </item>
