@@ -4,8 +4,15 @@
         <description><![CDATA[Watches]]></description>
         <link>https://thegrid.ai/watches/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 20:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 20:28:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/watches/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Watch Types]]></title>
+            <description><![CDATA[<article><h1>Watch Types</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba72f30ab6119ceef88d57a6c26be3c5a84dc8cc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/watches/watch-types/index.html</link>
+            <guid isPermaLink="false">7b91a70c-2b40-4a97-9c4e-e469739e75f2</guid>
+            <pubDate>Tue, 09 Feb 2016 20:27:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Different types of watches]]></title>
             <description><![CDATA[<article><h1>Different types of watches</h1><p>There are many different types of watches</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1306488bc996a37d94b6f591d090dbf8523cf9c.jpg"></article>]]></description>
