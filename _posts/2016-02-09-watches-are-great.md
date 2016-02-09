@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T20:12:56.699Z'
-dateModified: '2016-02-09T20:08:10.370Z'
+datePublished: '2016-02-09T20:20:39.385Z'
+dateModified: '2016-02-09T20:20:36.622Z'
 title: 'Watches are Great!'
 author: []
+sourcePath: _posts/2016-02-09-watches-are-great.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-watches-are-great.md
-published: true
 url: watches-are-great/index.html
 _type: Article
 
